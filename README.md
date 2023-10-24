@@ -10,7 +10,7 @@ Under the My Work title, click on the images to view the deployed applications.
 
 The page can be resized for viewing on different devices
 
-Live Portfolio: https://your-portfolio-link
+Live Portfolio: (https://johnm89.github.io/Assignment-2/)
 
 Repository: https://github.com/your-github/your-portfolio
 
