@@ -12,6 +12,6 @@ The page can be resized for viewing on different devices
 
 Live Portfolio: (https://johnm89.github.io/Assignment-2/)
 
-Repository: https://github.com/your-github/your-portfolio
+Repository: [https://github.com/your-github/your-portfolio](https://github.com/JohnM89/Assignment-2.git)https://github.com/JohnM89/Assignment-2.git
 
 Thanks!
