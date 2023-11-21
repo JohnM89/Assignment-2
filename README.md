@@ -1,17 +1,21 @@
-John MacNeil's Portfolio
 
-Use
 
-Load the portfolio to view my name, a recent photo, and navigation links.
+# John MacNeil's Portfolio
 
-Clicking on the links in the navigation to scrolls to different sections: About Me, My Work, Contact.
+![Portfolio Screenshot](./ASSETS/scrncpt2.png)
 
-Under the My Work title, click on the images to view the deployed applications.
+Explore my portfolio to learn more about me and my work. Click on the links to navigate through different sections and view my deployed applications.
 
-The page can be resized for viewing on different devices
+! Will fix broken Project icons!
+
+
+Live Portfolio: [View Portfolio](https://johnm89.github.io/Assignment-2/)
+
+Repository: [GitHub Repo](https://github.com/JohnM89/Assignment-2)
 
 Live Portfolio: (https://johnm89.github.io/Assignment-2/)
 
 Repository: [https://github.com/your-github/your-portfolio](https://github.com/JohnM89/Assignment-2.git)https://github.com/JohnM89/Assignment-2.git
 
 Thanks!
+
